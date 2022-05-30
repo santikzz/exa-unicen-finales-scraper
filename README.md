@@ -1,4 +1,7 @@
 # exa-unicen-finales-scrapper
+
+(DEPRECADO)
+
 usa un ws oculto de unicen.edu.ar y obtiene una lista de todos los proximos finales de la facultad de exactas en formato json
 
 ```JavaScript
